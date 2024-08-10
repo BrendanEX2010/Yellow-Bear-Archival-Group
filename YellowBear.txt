@@ -1,0 +1,25 @@
+I am still here.
+
+<center>
+<font size="+2"><div> ________________________________________________________________________________________________________________________________ </div>
+<p style="color:yellow;"><font size="+6"><h?><b> Yellow Bear Archival Group </b></h?>
+<font size="+2"><div> ________________________________________________________________________________________________________________________________ </div>
+<img src="YellowBearArchives.jpg"
+ width="200" 
+     height="200" />
+<p style="color:yellow;"><font size="+3"><h?><b> Uncovering Lost Media since 1992! </b></h?>
+<font size="+2"><div> ________________________________________________________________________________________________________________________________ </div>
+<a href="YellowBearInvestigations.html">
+<button type="button">Our recent investigations</button>
+</a>
+<p style="color:yellow;"><font size="+2"><div> ________________________________________________________________________________________________________________________________ </div>
+<button type="button">Our formal investigations</button>
+<p style="color:yellow;"><font size="+2"><div> ________________________________________________________________________________________________________________________________ </div>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=15509538&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>            
+<font size="+2"><div> ________________________________________________________________________________________________________________________________ </div>
+<p style="color:yellow;"><font size="2"><h?><i> © 1999 Yellow Bear Archival Group </i></h?>
+<body style="background-color: #000000;">
+</body>
+</center>
